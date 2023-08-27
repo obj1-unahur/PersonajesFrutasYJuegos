@@ -1,7 +1,7 @@
 # El deporte y la alimentación
 
 ## Martín
-Martín se preocupa por su salud y bienestar. Le gusta el deporte y todo lo que sea actividad física y también se preocupa por mantener una alimentación adecuada. Debe tener cuidado en mantener un equilibrio razonable, porque puede haber actividad física o alimentos que podrían ser contraproducente
+Martín se preocupa por su salud y bienestar. Le gusta el deporte y todo lo que sea actividad física y también se preocupa por mantener una alimentación adecuada. Debe tener cuidado en mantener un equilibrio razonable, porque puede haber actividad física o alimentos que podrían ser contraproducente. 
 Martín se considera feliz cuando su energía supera 80 unidades o hizo al menos dos actividades fisicas en el día actual, y además no tiene hambre. 
  
 ### Alimentación
@@ -10,6 +10,7 @@ En cualquier otro momento, cuando quiere comer algo, agarra la fruta que haya en
 - La **manzana** proporciona 7 unidades de energía cuando está verde y 14 cuando se pone roja. 
 - La **mandarina** provee 2 unidades de energía cada 10 gramos. 
 - La **banana** por ser amarilla, da 5 de energía.
+
 Por otra parte, ingerir un vaso de agua no da energía, pero igual calma el hambre.
 
 ### Actividad física
